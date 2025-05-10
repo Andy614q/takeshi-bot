@@ -25,7 +25,7 @@
  *
  * Perceba que dentro dela tem 3 pastas:
  *
- * - 📁 admin
+ * - 📁 admin1
  * - 📁 member
  * - 📁 owner
  *
